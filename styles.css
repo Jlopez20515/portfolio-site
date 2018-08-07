@@ -20,7 +20,11 @@ html {
 }
 
 #inner-box {
-  border: red;
+  color: white;
+  background-color: grey;
+  width: 100%;
+  border-radius: 5px;
+  opacity: 0.9;
 }
 
 h1 {
